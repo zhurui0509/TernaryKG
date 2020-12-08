@@ -15,7 +15,7 @@ We provide three datasets with different densities to experiment the model:
 ## Script
 One can replicate the experiment (Table 4 in the paper) by running the bash script (use the 2000pairs_20min as an example):
 ```
-bash ./code/runn_experiment_all.sh
+bash ./code/run_experiment_all.sh
 ```
 The code is built based on https://github.com/eXascaleInfolab/HINGE_code/
 
